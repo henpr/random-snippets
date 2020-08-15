@@ -6,3 +6,7 @@ Note, that VS Code formatter needs libtinfo.so.5 in linux. If you have version 6
 sudo ln /usr/lib/libtinfo.so.6 /usr/lib/libtinfo.so.5
 ```
 does the trick (though not exactly clean and nice).
+
+## hen.zsh-theme
+
+clean zsh theme, basically copied from miloshadzic with a view improvements
